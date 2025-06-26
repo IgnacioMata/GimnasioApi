@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimnasioApi", "GimnasioApi.csproj", "{04815A6B-1397-4EDE-AE5E-FEBB6000D21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimnasioApp", "..\GimnasioApp\GimnasioApp.csproj", "{238ACF83-27CF-401D-ABA3-CD0A23B16219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04815A6B-1397-4EDE-AE5E-FEBB6000D21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04815A6B-1397-4EDE-AE5E-FEBB6000D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04815A6B-1397-4EDE-AE5E-FEBB6000D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04815A6B-1397-4EDE-AE5E-FEBB6000D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238ACF83-27CF-401D-ABA3-CD0A23B16219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238ACF83-27CF-401D-ABA3-CD0A23B16219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238ACF83-27CF-401D-ABA3-CD0A23B16219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238ACF83-27CF-401D-ABA3-CD0A23B16219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A98C8E4-764D-4321-BD8C-376FCBA6F82D}
+	EndGlobalSection
+EndGlobal
