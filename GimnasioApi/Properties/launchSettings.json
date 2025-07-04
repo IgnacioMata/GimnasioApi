@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ConsultorioApi": {
+    "GimnasioApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

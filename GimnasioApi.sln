@@ -2,9 +2,9 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultorioApi", "ConsultorioApi\ConsultorioApi.csproj", "{A9F58C3A-79F2-462A-9586-D90F4FAA2875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GimnasioApi", "GimnasioApi\GimnasioApi.csproj", "{A9F58C3A-79F2-462A-9586-D90F4FAA2875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultorioWinForms", "ConsultorioWinForms\ConsultorioWinForms.csproj", "{F41F8A5A-7888-4674-983E-FB684C7ABD50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimnasioWinForms", "GimnasioWinForms\GimnasioWinForms.csproj", "{F41F8A5A-7888-4674-983E-FB684C7ABD50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

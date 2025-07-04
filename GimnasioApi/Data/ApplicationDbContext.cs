@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ConsultorioApi.Models;
+using GimnasioApi.Models;
 
-namespace ConsultorioApi.Data
+namespace GimnasioApi.Data
 {
     public class ApplicationDbContext : DbContext
     {
@@ -10,8 +10,8 @@ namespace ConsultorioApi.Data
         {
         }
 
-        public DbSet<Turno> Turnos { get; set; }
-        public DbSet<Medico> Medicos { get; set; }
-        public DbSet<Paciente> Pacientes { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
+        public DbSet<Entrenador> Entrenadores { get; set; }
+        public DbSet<Socio> Socios { get; set; }
     }
 }

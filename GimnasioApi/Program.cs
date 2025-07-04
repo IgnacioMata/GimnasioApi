@@ -1,4 +1,4 @@
-﻿using ConsultorioApi.Data; // 👈 Agregá esto para que reconozca ApplicationDbContext
+﻿using GimnasioApi.Data; // 👈 Agregá esto para que reconozca ApplicationDbContext
 using Microsoft.EntityFrameworkCore; // 👈 Importante para UseSqlServer
 
 var builder = WebApplication.CreateBuilder(args);

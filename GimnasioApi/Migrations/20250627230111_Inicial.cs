@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace ConsultorioApi.Migrations
+namespace GimnasioApi.Migrations
 {
     public partial class Inicial : Migration
     {
